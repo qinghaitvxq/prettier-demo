@@ -1,0 +1,23 @@
+{
+  "name": "prettier-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.js\" --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinghaitvxq/prettier-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinghaitvxq/prettier-demo/issues"
+  },
+  "homepage": "https://github.com/qinghaitvxq/prettier-demo#readme",
+  "devDependencies": {
+    "prettier": "^1.16.4",
+    "react": "^16.8.2"
+  }
+}
